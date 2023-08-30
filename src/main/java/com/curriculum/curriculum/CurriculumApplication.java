@@ -9,7 +9,7 @@ public class CurriculumApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CurriculumApplication.class, args);
-		log.info("Hola este es mi curriculum");
+		log.info("Hola este es mi curriculum feo");
 	}
 
 
